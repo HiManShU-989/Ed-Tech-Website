@@ -21,7 +21,7 @@ A full-stack **EdTech Platform** similar to **Udemy**, where instructors can sel
 - **Cloud Storage:** Cloudinary
 
 ## 🚀 Live Demo
-🔗 [Live Website]([https://your-live-demo-url.com](https://edtech-frontend-sujal-kumars-projects.vercel.app/))
+🔗 [Live Website]([https://edtech-frontend-sujal-kumars-projects.vercel.app/])
 
 ## 📥 Installation & Setup
 To run the project locally:
